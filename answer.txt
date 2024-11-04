@@ -1,2 +1,2 @@
-Email: git config --golbal user.email "<email>"
-Name: git config --golbal user.name "<name>"
+Email: git config --global user.email "<email>"
+Name: git config --global user.name "<name>"
